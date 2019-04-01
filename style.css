@@ -1,0 +1,55 @@
+body{
+    background-image: url("https://wallpaperplay.com/walls/full/4/7/4/17343.jpg");
+
+}
+#title{
+    color: white;
+    
+    width: 300px;
+    text-align: center;
+}
+#information{ 
+    color: white;
+   text-align: center;
+    width: 400px;
+    padding-top: 15px;
+    padding-bottom: 100px;
+}
+#random-num{
+    color: white;
+    margin-top: 10px;
+    width:200px;
+    height: 100px;
+    
+    float:center;
+}
+#win-lose{
+ color:white;
+    width: 80px;
+    height:100px;
+    float: center;
+    margin-top: 10px;
+    margin-left:10px;
+}
+.cyrstals-images{
+ clear: both;
+ margin-top:123px;
+}
+.cyrstals-image{
+    width: 80px;
+    height: 80px;
+}
+.total-score{
+   color: white;
+    
+    width:230px; 
+    padding: 5px;
+    margin: 10px 0px;
+}
+.total-score-num{
+    padding-bottom: 80px;
+   color: white;    
+    width:240px;
+    
+    font-size:45px;
+}
